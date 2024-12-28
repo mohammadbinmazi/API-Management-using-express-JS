@@ -1,4 +1,4 @@
-# Tea Management API using express js
+# Tea Management API using express js test on postman
 
 ## Overview
 
@@ -150,6 +150,7 @@ This project is built using Node.js and Express.
 
 - **Node.js**: JavaScript runtime.
 - **Express**: Web framework for Node.js.
+- **Postman**: using for testing Get request,Post request,pull request
 
 ---
 
